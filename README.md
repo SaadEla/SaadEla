@@ -9,6 +9,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 <a href="https://www.reddit.com/user/SaadEla">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
+</br>
 
 ## 🔧 Technologies & Tools
 
