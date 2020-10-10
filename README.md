@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0. You can find me on [![Github][1.2]][1], [![LinkedIn][2.2]][2],
+My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0. You can find me on [![Github][1.2]][1], [![LinkedIn][2.2]][2] or on
 
 <a href="https://www.reddit.com/user/SaadEla">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
@@ -27,21 +27,34 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/SaadEla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadEla&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/SaadEla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaadEla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saad Elaouani's Stats" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a><a href="https://github.com/SaadEla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=React-Fingerprintjs-I18n-BoilerPlate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/SaadEla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=LocationMaisonFront&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/SaadEla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=LocationMaison-API-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/SaadEla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=MoviesAndMe-API-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  
+  
+
 
 <!-- links to social media icons -->
 
