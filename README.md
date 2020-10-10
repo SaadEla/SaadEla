@@ -12,7 +12,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 </br>
 </br>
 🔧 Technologies & Tools
-
+</br>
 ![](https://img.shields.io/badge/Editor-VSCode-brightgreen)
 ![](https://img.shields.io/badge/Code-Javascript-green)
 ![](https://img.shields.io/badge/Code-Typescript-green)
@@ -36,6 +36,8 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaadEla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saad Elaouani's Stats" />
 </a>
 </br>
+</br>
+</br>
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=React-Mobx-BoilerPlate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -45,7 +47,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=React-Fingerprintjs-I18n-BoilerPlate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-</br>
+
 
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=MoviesAndMe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -54,7 +56,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=LocationMaisonFront&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-</br>
+
 
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=LocationMaison-API-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -71,23 +73,10 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
-<!-- icons without padding -->
-
-
-[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/SaadEla
 [2]: https://www.linkedin.com/in/saad-elaouani-199b5a171/
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
