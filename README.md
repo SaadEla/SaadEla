@@ -4,11 +4,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0. You can find me on [![Github][1.2]][1],  or on [![LinkedIn][3.2]][2].
+My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0. You can find me on [![Github][1.2]][1], [![LinkedIn][2.2]][2] or on [![Github][3.2]][3]
 
-## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -50,17 +48,20 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
+
 <!-- icons without padding -->
 
 
 [1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://user-images.githubusercontent.com/45466806/95662946-bb164000-0b32-11eb-9700-3c4e0b0afc1b.png (readme icon with padding)
 
 
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/SaadEla
 [2]: https://www.linkedin.com/in/saad-elaouani-199b5a171/
+[3]: https://www.reddit.com/user/SaadEla
 
 
 <!-- Resources -->
