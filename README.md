@@ -9,10 +9,9 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 <a href="https://www.reddit.com/user/SaadEla">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-</br>
-</br>
-🔧 Technologies & Tools
-</br>
+
+## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Editor-VSCode-brightgreen)
 ![](https://img.shields.io/badge/Code-Javascript-green)
 ![](https://img.shields.io/badge/Code-Typescript-green)
@@ -71,7 +70,10 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+<!-- icons without padding -->
 
+[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
 
