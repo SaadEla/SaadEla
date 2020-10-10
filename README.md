@@ -10,7 +10,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 </a>
 
 </br>
-## 🔧 Technologies & Tools
+🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VSCode-brightgreen)
 ![](https://img.shields.io/badge/Code-Javascript-green)
