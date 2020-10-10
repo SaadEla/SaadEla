@@ -24,6 +24,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 ![](https://img.shields.io/badge/Test-Enzyme-blue)
 ![](https://img.shields.io/badge/QA-SonarQube-blue)
 ![](https://img.shields.io/badge/DevOps-GitlabCI-orange)
+![](https://img.shields.io/badge/bundler-Webpack-yellow)
 
 ## &#x1f4c8; GitHub Stats
 </br>
