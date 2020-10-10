@@ -46,7 +46,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 
 
 <a href="https://github.com/SaadEla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=MoviesAndMe-API-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=MoviesAndMe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/SaadEla">
