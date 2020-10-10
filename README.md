@@ -4,8 +4,10 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0. You can find me on [![Github][1.2]][1], [![LinkedIn][2.2]][2] or on [![Github][3.2]][3]
-
+My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0. You can find me on [![Github][1.2]][1], [![LinkedIn][2.2]][2] or on 
+<a href="https://www.reddit.com/user/SaadEla">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 
 
 ## 🔧 Technologies & Tools
@@ -54,14 +56,12 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 
 [1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[3.2]: https://user-images.githubusercontent.com/45466806/95662946-bb164000-0b32-11eb-9700-3c4e0b0afc1b.png (readme icon with padding)
 
 
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/SaadEla
 [2]: https://www.linkedin.com/in/saad-elaouani-199b5a171/
-[3]: https://www.reddit.com/user/SaadEla
 
 
 <!-- Resources -->
