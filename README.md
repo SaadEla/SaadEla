@@ -1,7 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [![Header](https://user-images.githubusercontent.com/45466806/95662764-3676f200-0b31-11eb-8a93-90ad4d195631.PNG)](https://www.linkedin.com/in/saad-elaouani-199b5a171//)
-
+</br>
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0. You can find me on [![Github][1.2]][1], [![LinkedIn][2.2]][2] or on
@@ -9,10 +9,12 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 <a href="https://www.reddit.com/user/SaadEla">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-
+</br>
 </br>
 🔧 Technologies & Tools
-
+</br>
+</br>
+</br>
 ![](https://img.shields.io/badge/Editor-VSCode-brightgreen)
 ![](https://img.shields.io/badge/Code-Javascript-green)
 ![](https://img.shields.io/badge/Code-Typescript-green)
@@ -26,33 +28,35 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 ![](https://img.shields.io/badge/DevOps-GitlabCI-orange)
 
 ## &#x1f4c8; GitHub Stats
+</br>
 
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadEla&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+</br>
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaadEla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saad Elaouani's Stats" />
 </a>
-
+</br>
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=React-Mobx-BoilerPlate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+</br>
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=React-Fingerprintjs-I18n-BoilerPlate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+</br>
 
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=MoviesAndMe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+</br>
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=LocationMaisonFront&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+</br>
 
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=LocationMaison-API-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
