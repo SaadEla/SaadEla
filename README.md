@@ -12,9 +12,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 </br>
 </br>
 🔧 Technologies & Tools
-</br>
-</br>
-</br>
+
 ![](https://img.shields.io/badge/Editor-VSCode-brightgreen)
 ![](https://img.shields.io/badge/Code-Javascript-green)
 ![](https://img.shields.io/badge/Code-Typescript-green)
@@ -33,7 +31,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadEla&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-</br>
+
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaadEla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saad Elaouani's Stats" />
 </a>
@@ -42,7 +40,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=React-Mobx-BoilerPlate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-</br>
+
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=React-Fingerprintjs-I18n-BoilerPlate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -52,7 +50,7 @@ My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and curren
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=MoviesAndMe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-</br>
+
 <a href="https://github.com/SaadEla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadEla&repo=LocationMaisonFront&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
