@@ -4,7 +4,7 @@
 </br>
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0. You can find me on [![Github][1.2]][1], [![LinkedIn][2.2]][2] or on
+My name is Elaouani Saad and I'm a Digital Engineer. I'm from Morocco and currently working at Piman2.0, check my online resume https://saadela.github.io/resume/ . You can find me on [![Github][1.2]][1], [![LinkedIn][2.2]][2] or on
 
 <a href="https://www.reddit.com/user/SaadEla">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
